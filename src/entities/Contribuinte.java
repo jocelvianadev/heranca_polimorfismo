@@ -19,7 +19,7 @@ public abstract class Contribuinte {
 		this.nome = nome;
 	}
 
-	public Double getSalarioAnual() {
+	public Double getSalarioAnual() { 
 		return salarioAnual;
 	}
 
