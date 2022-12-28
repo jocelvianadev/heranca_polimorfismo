@@ -5,6 +5,7 @@ public class PessoaFisica extends Contribuinte {
 	private Double gastosSaude;
 
 	public PessoaFisica() {
+		super();
 	}
 
 	public PessoaFisica(String nome, Double salarioAnual, Double gastosSaude) {
